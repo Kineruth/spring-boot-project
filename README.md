@@ -1,6 +1,6 @@
-# Spring Boot - Beginner Project
+# Spring Boot - Project
 
-The application sets up a "student" database, adds students to the table and posts them in a JSON format on an HTTP localhost web page.    
+This application sets up a "student" database, adds students to the table and posts them in a JSON format on an HTTP localhost web page.    
 
 #### **Technologies used:**  
 Spring Boot, Postman, Spring Web, Spring Data JPA, PostgreSQL, SQL shell, IntelliJ.  
