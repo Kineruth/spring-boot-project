@@ -1,4 +1,4 @@
-# Spring Boot - Project
+# A Spring Boot Project - Student DB
 
 This application sets up a "student" database, implements CRUD operations on it and posts in a JSON format on an HTTP localhost web page.    
 
